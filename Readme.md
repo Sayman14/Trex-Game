@@ -21,7 +21,7 @@ A fun and lightweight **Trex Runner Game** built using **HTML, CSS, and JavaScri
 
 ```
 📦Trex-Game
- ┣ 📂cdn_modules/p5.js
+ ┣ 📂cdn_modules/p5.min.js
  ┣ 📄allimages.png
  ┣ 📄index.html
  ┣ 📄main.js
@@ -39,7 +39,7 @@ A fun and lightweight **Trex Runner Game** built using **HTML, CSS, and JavaScri
 
 ## 📷 Screenshots
 
-*(Add a screenshot of your game here if you'd like)*
+*Not yet Available*
 
 ## 📄 License
 
