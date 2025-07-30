@@ -37,10 +37,6 @@ A fun and lightweight **Trex Runner Game** built using **HTML, CSS, and JavaScri
 2. Open `index.html` in your browser.
 3. Press `Space` or `Up Arrow` to jump and start playing!
 
-## 📷 Screenshots
-
-*Not yet Available*
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
